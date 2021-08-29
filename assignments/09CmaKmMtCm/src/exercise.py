@@ -19,6 +19,6 @@ def main():
             print(y,"m")
         if z!=0:
             print(z,"cm")
-
+#si no te da 0 entonce es por que ya están en la unidad siguiente
 if __name__ == '__main__':
     main()

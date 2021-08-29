@@ -22,6 +22,6 @@ def main():
         else:
             x=-b/(2*a)
             print(x)
-
+#función cuadrática
 if __name__ == '__main__':
     main()
